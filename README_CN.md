@@ -1,6 +1,6 @@
 # Minecraft-Chat-Bot
 
-## ![python](https://img.shields.io/badge/python-%E2%89%A5%203.7-blue?logo=python) ![stat](https://img.shields.io/github/stars/yang0143/Minecraft-Chat-Bot?logo=github) ![License](https://img.shields.io/badge/%20License-MIT-blue) ![version](https://img.shields.io/badge/Version-1.0.0%20Bata-blue)
+## ![python](https://img.shields.io/badge/python-%E2%89%A5%203.7-blue?logo=python) ![stat](https://img.shields.io/github/stars/yang0143/Minecraft-Chat-Bot?logo=github) ![License](https://img.shields.io/badge/%20License-MIT-blue) ![version](https://img.shields.io/badge/Version-1.0.0%20-blue)
 ### [中文](README_CN.md)  [English](README.md)
 #### 问：你为什么要做这个软件呢？
 #### 答：原因其实很简单：
